@@ -1,0 +1,17 @@
+Package: NAR
+Type: Package
+Title: Nucleic Acids in R
+Version: 0.1.0
+Author: Franjo Ivankovic
+Maintainer: Franjo Ivankovic <franjo@franjo.us>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R (>= 3.5.0)
+Imports:
+  stringi,
+  stringr
+  
